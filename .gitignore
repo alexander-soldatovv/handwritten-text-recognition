@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+einstein_files/
+emnist/
+reference.txt
+pred_text.txt
+*.pt
